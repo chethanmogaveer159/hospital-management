@@ -1,10 +1,11 @@
 package com.hospital.hospitalmanagement;
-
-import org.junit.jupiter.api.DisplayName;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.junit.jupiter.api.Test;
+/*import org.junit.jupiter.api.DisplayName;
+
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
+
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 
@@ -22,7 +23,7 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-
+*/
 @SpringBootTest
 //@RunWith(SpringRunner.class)
 class HospitalManagementApplicationTests {
