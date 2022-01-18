@@ -101,6 +101,26 @@ class HospitalManagementApplicationTests {
 		System.out.println("Hello");
 	}
 	
+	@Test
+	void createPatient() {
+		System.out.println("Hello");
+	}
+	@Test
+	void create1() {
+		System.out.println("Hello");
+	}
+	@Test
+	void create2() {
+		System.out.println("Hello");
+	}
+	@Test
+	void create3() {
+		System.out.println("Hello");
+	}
+	@Test
+	void create4() {
+		System.out.println("Hello");
+	}
 	
 
 }
