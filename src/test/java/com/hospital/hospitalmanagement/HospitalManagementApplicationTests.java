@@ -22,8 +22,9 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-@RunWith(SpringRunner.class)
+
 @SpringBootTest
+@RunWith(SpringRunner.class)
 class HospitalManagementApplicationTests {
 	
 	@Autowired
