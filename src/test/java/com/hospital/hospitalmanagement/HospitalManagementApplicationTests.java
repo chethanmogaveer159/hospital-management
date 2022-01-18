@@ -24,9 +24,9 @@ import java.util.stream.Stream;
 
 
 @SpringBootTest
-@RunWith(SpringRunner.class)
+//@RunWith(SpringRunner.class)
 class HospitalManagementApplicationTests {
-	
+	/*
 	@Autowired
 	private DoctorController doctorController;
 	
@@ -94,7 +94,11 @@ class HospitalManagementApplicationTests {
 		Optional optional=patientRepository.findById(patient.getDid());
 		assertEquals(optional.empty(),optional);
 	}
-	
+	*/
+	@Test
+	void createDoctor() {
+		System.out.println("Hello");
+	}
 	
 	
 
